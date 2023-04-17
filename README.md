@@ -1,6 +1,6 @@
 # Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods
 
-This Repo contains the dataset and code used in the paper "Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods". The paper was peer-reviewed and accepted by The International Joint Conference on Neural Network (IJCNN) 2023. 
+This Repo contains the dataset and code used in the paper "Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods". The paper was peer-reviewed and accepted by The 2023 International Joint Conference on Neural Network (IJCNN). 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdollahMasoud/IJCNN-2023/blob/main/IJCNN_2023.ipynb)
 
