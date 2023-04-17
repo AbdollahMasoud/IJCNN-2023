@@ -1,2 +1,3 @@
 # IJCNN-2023
-Dataset and Code of "Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods"
+
+This Repo contains the dataset and code used by the paper "Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods".
