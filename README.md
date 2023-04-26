@@ -7,7 +7,7 @@ The code was developed using Google Colaboratory [![Open In Colab](https://colab
 A Google account is needed to execute it. Alternatively, you may follow the structure of the provided [IJCNN_2023.ipynb](https://github.com/AbdollahMasoud/IJCNN-2023/blob/main/IJCNN_2023.ipynb) to write your own code and run it using an offline compiler.
 
 ## Dataset
-This dataset contains a selection of radio sources from the Best–Heckman sample, manually labeled by [Ma *et al*](https://iopscience.iop.org/article/10.3847/1538-4365/aaf9a2/meta). The radio images were taken from the FIRST and NVSS surveys. The dataset includes three classes: FRI, FRII, and FR0 (compact sources). The images were converted from their original FITS format to grey-scale images in JPG format to allow for easier data handling. The only preprocessing step applied to the dataset (as it appears in the repo) was to set pixels with a magnitude under $\mu+3\sigma$ to zero, for each image.
+This dataset contains a selection of radio sources from the Best–Heckman sample, manually labeled by [Ma *et al*](https://iopscience.iop.org/article/10.3847/1538-4365/aaf9a2/meta). The radio images were taken from the FIRST and NVSS surveys. The dataset includes three classes: FRI, FRII, and FR0 (compact sources). The images were converted from their original FITS format to grey-scale images in JPG format to allow for easier data handling. The only preprocessing step applied to the dataset (as it appears in the repo), for each image, was to set pixels with a magnitude under $\mu+3\sigma$ to zero.
 
 ## References
 More information can be found from [the preprint](https://arxiv.org/abs/2304.12729).  
