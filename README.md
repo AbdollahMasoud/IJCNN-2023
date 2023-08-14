@@ -16,6 +16,7 @@ For questions and suggestions feel free to email me at: adarya@sharjah.ac.ae
 ### Citation
 Please cite this work as follows:
 
+```
 @inproceedings{darya2023morphological,  
   title={Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods},  
   author={Darya, Abdollah Masoud and Fernini, Ilias and Vellasco, Marley and Hussain, Abir},  
@@ -26,3 +27,4 @@ Please cite this work as follows:
   pages={1-8},  
   doi={10.1109/IJCNN54540.2023.10191163}  
 }
+```
