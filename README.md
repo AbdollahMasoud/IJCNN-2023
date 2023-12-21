@@ -13,9 +13,15 @@ This dataset contains a selection of radio sources from the [Best–Heckman samp
 More information can be found in [the paper](https://ieeexplore.ieee.org/document/10191163) or [the preprint](https://arxiv.org/abs/2304.12729).  
 For questions and suggestions feel free to email me at: adarya@sharjah.ac.ae
 
-### Citation
+## Citation
 Please cite this work as follows:
 
+#### IEEE Style Text
+```
+A. M. Darya, I. Fernini, M. Vellasco and A. Hussain, "Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods," 2023 International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, 2023, pp. 1-8, doi: 10.1109/IJCNN54540.2023.10191163.
+
+```
+#### BibTeX
 ```
 @inproceedings{darya2023morphological,  
   title={Morphological Classification of Extragalactic Radio Sources Using Gradient Boosting Methods},  
